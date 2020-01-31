@@ -8,27 +8,37 @@
     {
       "id": 2,
       "name": "Captain America",
-      "imgname":"BlackWidow"
+      "imgname":"CaptainAmerica"
     },
     {
       "id": 3,
-      "name": "Thor"
+      "name": "Thor",
+      "imgname":"Thor"
     },
     {
       "id": 4,
-      "name": "Black Widow"
+      "name": "Black Widow",
+      "imgname":"BlackWidow"
     },
     {
       "id": 5,
-      "name": "Hulk"
+      "name": "Hulk",
+      "imgname":"Hulk"
     },
     {
       "id": 6,
-      "name": "Hawk Eye"
+      "name": "Hawk Eye",
+      "imgname":"HawkEye"
     },
     {
       "id": 7,
-      "name": "Spiderman"
+      "name": "Spiderman",
+      "imgname":"Spiderman"
+    },
+    {
+      "id": 8,
+      "name": "Doctor Strange",
+      "imgname":"DrStrange"
     }
   ]
 }
