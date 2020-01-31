@@ -18,7 +18,7 @@
     {
       "id": 4,
       "name": "Black Widow",
-      "imgname":"BlackWidow"
+      "imgname":"Blackwidow"
     },
     {
       "id": 5,
@@ -28,7 +28,7 @@
     {
       "id": 6,
       "name": "Hawk Eye",
-      "imgname":"HawkEye"
+      "imgname":"Hawkeye"
     },
     {
       "id": 7,
@@ -38,7 +38,7 @@
     {
       "id": 8,
       "name": "Doctor Strange",
-      "imgname":"DrStrange"
+      "imgname":"DoctorStrange"
     }
   ]
 }
